@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [14/Sep/2017:22:52:41 +0800] "GET /js/kindeditor-4.1.10/plugins/multiimage/images/swfupload.swf?preventswfcaching=1505400761317 HTTP/1.1" 200 12787 http-bio-8080-exec-1 100
+0:0:0:0:0:0:0:1 - - [14/Sep/2017:22:53:47 +0800] "POST /pic/upload?dir=image HTTP/1.1" 200 26 http-bio-8080-exec-2 60583
